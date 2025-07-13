@@ -1,11 +1,12 @@
-# Night Screen 夜间屏幕
+# Night Screen 夜间屏幕（尝试适配MD3）
+
+忙，用的AI
+
+现在还没开工
+
+将使用MD3主题样式，适配Android新特性（12以上，包括动态采色等）
 
 <img src="./art/ic_launcher_web.png" width="30%"/>
-
-<a href="https://f-droid.org/packages/info.papdt.blackblub/" target="_blank">
-<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="100"/></a>
-<a href="https://play.google.com/store/apps/details?id=info.papdt.blackblub" target="_blank">
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="100"/></a>
 
 ---
 
